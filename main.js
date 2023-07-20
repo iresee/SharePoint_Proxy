@@ -285,4 +285,4 @@ async function parseYtVideoRedir(urlObj, newLen, res) {
   }
   if (!isYtUrl(urlObj)) {
     return null
-  } 作者：Sun邦焱 https://www.bilibili.com/read/cv18303369/ 出处：bilibili
+  }
