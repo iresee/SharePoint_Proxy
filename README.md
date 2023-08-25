@@ -1,4 +1,4 @@
-# odproxy
+# SharePoint Proxy
 
 然后回到上面，修改ASSET_URL这一行
 
